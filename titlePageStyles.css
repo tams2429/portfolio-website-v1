@@ -1,0 +1,74 @@
+
+/*-------Title Page ----------*/
+.titlePage{
+    min-height: 100vh;
+}
+
+
+.titlePage .titleMenu{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+
+/*-------Title Page ----------*/
+
+/*------- NavBar --------------*/
+
+.titlePage .titleMenu .navBar{
+    display: flex;
+}
+
+.titlePage .titleMenu .navBar .navItems{
+    position: absolute;
+    right: 0;
+    width: 40%;
+    /* transform: translateX(100%); */
+}
+
+.titlePage .titleMenu .navBar .navItems .navLinks{
+    list-style-type: none;
+    padding: 0;
+    min-height: 40rem;
+    background-color: grey;
+    border-radius: 20px 0 0 20px;
+}
+
+.titlePage .titleMenu .navBar .navItems .navLinks li{
+    padding: 3rem;
+    font-size: 1.2rem;
+    text-align: center;
+
+}
+
+.titlePage .titleMenu .navBar p{
+
+}
+
+.titlePage .titleMenu .navBar .navMenu div{
+    background-color: black;
+    width: 1.6rem;
+    height: 0.19rem;
+    cursor: pointer;
+    margin: 0.31rem;
+    margin-left: 1rem;       
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*------- NavBar --------------*/
