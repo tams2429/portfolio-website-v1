@@ -46,6 +46,12 @@
 
 }
 
+.titlePage .titleMenu .navBar .navItems .navLinks a{
+    text-decoration: none;
+    font-family: Arial;
+    color: white;
+}
+
 .titlePage .titleMenu .navBar p{
 
 }
